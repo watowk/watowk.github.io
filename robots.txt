@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://watowk.github.io/lJK/sitemap.lJK.gz
